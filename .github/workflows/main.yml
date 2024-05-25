@@ -56,6 +56,6 @@ jobs:
           dockerfile: ./dockerfile  # Adjust the path to your Dockerfile if necessary
           push: true
           tags: |
-            arjun/vtiger-crm-automation-framework_latestpush:${{ github.actor }}-latest
-            arjun/vtiger-crm-automation-framework:${{ github.actor }}-${{ github.run_number }}
+            dockerarjjun/crm_application_latestpush:${{ github.actor }}-latest
+            dockerarjjun/crm_application:${{ github.actor }}-${{ github.run_number }}
             
