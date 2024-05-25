@@ -6,7 +6,7 @@
 
     <groupId>VT</groupId>
     <artifactId>Vtiger.CRM.Framework</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -188,6 +188,6 @@
 
 
 		</plugins>
-		<finalName>Vtiger.CRM.Framework-0.0.1-SNAPSHOT</finalName>
+		<finalName>Vtiger.CRM.Framework-1.0-SNAPSHOT</finalName>
 	</build>
 </project>
