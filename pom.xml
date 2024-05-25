@@ -30,7 +30,8 @@
         <javafaker.version>1.0.2</javafaker.version>
         <!-- Log4j core & API  Versions -->
         <log4j-core-api.version>2.23.1</log4j-core-api.version>
-
+        <sonar.organization>planonarjun</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <!-- Dependencies  -->
